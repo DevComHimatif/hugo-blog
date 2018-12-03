@@ -6,5 +6,5 @@ img: ../photos/2018/devcom-photos_6.jpg
 ---
 
 Devcom goes to GDG DevFest chapter Bandung. 
-![speaker](/photos/2018/devcom-photos_99.jpg)
+![speaker](/images/../photos/2018/devcom-photos_99.jpg)
 
