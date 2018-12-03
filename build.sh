@@ -7,6 +7,10 @@ hugo -t hugo-cards # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
+
+# hapus symbolic link img
+rm -rf photos
+
 # Add changes to git.
 git add .
 
