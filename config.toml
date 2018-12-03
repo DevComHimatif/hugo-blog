@@ -6,7 +6,7 @@ paginate = 6
 
 [params]
   builtBy = "bool"
-  defaultImage = "gopher.jpg"
+  defaultImage = "devcomhimatif.jpeg"
 
   facebook = ""
   quora = ""
